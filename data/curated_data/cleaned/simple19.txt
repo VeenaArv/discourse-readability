@@ -1,0 +1,10 @@
+</doc>
+<doc id="164363" url="https://simple.wikipedia.org/wiki?curid=164363" title="Domain Name System">
+Domain Name System
+
+The Domain Name System (DNS) is a system used to convert a computer's host name into an IP address on the Internet. For example, if a computer needs to communicate with the web server "example.net", your computer needs the IP address of the web server "example.net". It is the job of the DNS to convert the host name to the IP address of the web server. It is sometimes called the Internet's telephone book because it converts a Website's name that people know, to a number that the Internet actually uses. 
+
+Domain names are made up of one or more parts, or "labels" that are joined and kept separate by dots, such as codice_1.
+
+
+</doc>
