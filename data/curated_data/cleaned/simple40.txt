@@ -1,9 +1,9 @@
-</doc>
-<doc id="165002" url="https://simple.wikipedia.org/wiki?curid=165002" title="Thammasat University">
-Thammasat University
-
-Thammasat University (TU) is the second oldest university in Thailand. It was established on June 27, 1934. The university was initially named, by Dr. Pridi Banomyong, ‘Vichar Thammasat Lae Karn Muang’ – ‘The University of Moral Science and Politics’. At that time, there was only Chulalongkorn University in Thailand, so he thought that the university should have people who have knowledge of law, administration and social. It had started out as an open university, with 7,094 people for the first academic year. The main goal of the university’s foundation was "to teach students to love and cherish democracy". Only in the year 1952 was the name ‘Vichar Thammasat Lae Karn Muang’ changed to the present day ‘Thammasat University’.
 
 
+Population (statistics)
 
-</doc>
+In statistics, a population is a set of things from which samples may be drawn. This allows statistical inferences to be drawn, or estimates made of the total population. For example, if we were interested in crows, then we would sample the set of crows which is of interest. The population of crows is limited to crows that exist now or in the future. Probably, geography will be a limitation in practice. To fairly represent the whole population a sample needs to be random. 
+
+Population is also used to refer to a set of measurements or values, not only cases actually observed. Suppose, for example, we are interested in the set of all adult crows now alive in the county of Cambridgeshire, and we want to know the mean weight of these birds. For each bird in the population of crows there is a weight, and the set of these weights is called the population of weights.
+
+

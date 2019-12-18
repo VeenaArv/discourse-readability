@@ -1,5 +1,5 @@
-</doc>
-<doc id="41067402" url="https://en.wikipedia.org/wiki?curid=41067402" title="Numerical solution of the convection–diffusion equation">
+
+
 Numerical solution of the convection–diffusion equation
 
 The convection–diffusion equation describes the flow of heat, particles, or other physical quantities in situations where there is both diffusion and convection or advection. For information about the equation, its derivation, and its conceptual importance and consequences, see the main article convection–diffusion equation. This article describes how to use a computer to calculate an approximate numerical solution of the discretized equation, in a time-dependent situation.
@@ -18,7 +18,7 @@ where is the diffusion coefficient.
 
 A solution of the transient convection–diffusion equation can be approximated through a finite difference approach, known as the finite difference method (FDM).
 
-An explicit scheme of FDM has been considered and stability criteria are formulated. In this scheme, temperature is totally dependent on the old temperature (the initial conditions) and , a weighting parameter between 0 and 1. Substitution of gives the explicit discretization of the unsteady conductive heat transfer equation.
+An explicit scheme of FDM has been considered and stability criteria are formulated. In this scheme, temperature is totally dependent on the old temperature (the initial conditions) and , a weighting parameter between  and . Substitution of gives the explicit discretization of the unsteady conductive heat transfer equation.
 
 where
 
@@ -35,4 +35,3 @@ For time dependent equations, a different kind of approach is followed. The fini
 
 
 
-</doc>

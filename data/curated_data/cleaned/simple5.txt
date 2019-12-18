@@ -1,5 +1,5 @@
-</doc>
-<doc id="163659" url="https://simple.wikipedia.org/wiki?curid=163659" title="Class struggle">
+
+
 Class struggle
 
 Class struggle, or class warfare or class conflict, is tension or antagonism in society. It is said to exist because different groups of people have different interests.
@@ -28,4 +28,3 @@ Social democrats and liberal conservatives do not see society as described by Ma
 
 
 
-</doc>

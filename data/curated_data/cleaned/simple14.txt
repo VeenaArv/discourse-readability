@@ -1,8 +1,8 @@
-</doc>
-<doc id="164094" url="https://simple.wikipedia.org/wiki?curid=164094" title="Solid Snake">
+
+
 Solid Snake
 
-Solid Snake is a fictional stealth character seen in Metal Gear games by Konami. Introduced in the 1987 video games Metal Gear, and Metal Gear Solid, created by series creator Hideo Kojima, Solid Snake is a combination of a spy, special operations agent, and mercenary who works for FOXHOUND.
+Solid Snake is a fictional stealth character seen in Metal Gear games by Konami. Introduced in the  video games Metal Gear, and Metal Gear Solid, created by series creator Hideo Kojima, Solid Snake is a combination of a spy, special operations agent, and mercenary who works for FOXHOUND.
 
 Solid Snake (aka David) is one of three clones made in a secret project to clone the world's greatest soldier. His childhood is a mystery, but he is known to have fought in the Gulf War, and maybe a few others before that. After the war ended, he joined the Secret Organization known as FOXHOUND. While he was a member of this group, he discovered the existence of a new war machine, called Metal Gear. It is a staple throughout the series, as the title suggests. He fights a new type of Metal Gear in every game. 
 
@@ -11,4 +11,3 @@ In the fourth release in the Metal Gear Solid series, Snake's codename is change
 Snake also appears in the Nintendo fighting game "Super Smash Bros. Brawl".
 
 
-</doc>

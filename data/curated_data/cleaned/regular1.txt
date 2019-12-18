@@ -1,10 +1,10 @@
-</doc>
-<doc id="41067356" url="https://en.wikipedia.org/wiki?curid=41067356" title="Wushantou Reservoir">
+
+
 Wushantou Reservoir
 
-Wushantou Reservoir (), sometimes spelled Wushanto or Wusanto, is a reservoir and scenic area located in Lioujia District and Guantian District of Tainan, Taiwan. It is also referred to as Coral Lake () due to its zigzagging shoreline. The reservoir was designed by engineer Yoichi Hatta and was the largest in Asia at the time of its completion in 1930.
+Wushantou Reservoir (), sometimes spelled Wushanto or Wusanto, is a reservoir and scenic area located in Lioujia District and Guantian District of Tainan, Taiwan. It is also referred to as Coral Lake () due to its zigzagging shoreline. The reservoir was designed by engineer Yoichi Hatta and was the largest in Asia at the time of its completion in .
 
-Construction of the Wusanto Reservoir began in 1920 and was completed in 1930. The goal of the project was to provide irrigation for over 100-thousand hectares of farmland in the Chianan area. After construction of the reservoir, the irrigation plain became an important producer of rice for consumption in Taiwan and Japan, with three rice harvests possible each year.
+Construction of the Wusanto Reservoir began in  and was completed in . The goal of the project was to provide irrigation for over -thousand hectares of farmland in the Chianan area. After construction of the reservoir, the irrigation plain became an important producer of rice for consumption in Taiwan and Japan, with three rice harvests possible each year.
 
 The reservoir was built in conjunction with the Chianan Canal, also designed by Hatta. At the time of its completion, Wusanto Reservoir was the largest reservoir in Asia and the third largest in the world.
 Construction of the reservoir and of the Wusanto Dam used an uncommon semi-hydraulic fill technique, where fine-grained material is placed at the end of an embankment and then washed into its desired position using jets of water; this is a variant of the hydraulic fill technique. Wusanto Reservoir is the only project constructed with the semi-hydraulic fill technique that is still in use anywhere in the world. This process was expensive and time-consuming, but produced a dam which has proven resistant to Taiwan's severe seismic activity.
@@ -13,4 +13,3 @@ Today, the Wusanto Reservoir Scenic Area is a popular tourist destination in Tai
 
 
 
-</doc>

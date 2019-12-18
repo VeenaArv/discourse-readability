@@ -1,14 +1,14 @@
-</doc>
-<doc id="41067366" url="https://en.wikipedia.org/wiki?curid=41067366" title="Trichomyrmex destructor">
+
+
 Trichomyrmex destructor
 
-Trichomyrmex destructor is a species of ant in the subfamily Myrmicinae. Its common names include destructive trailing ant or Singapore ant. It is a pest species in urban areas, known for causing costly damage to structures, vehicles, and electronic devices with its chewing activity. In 2015, the species was moved from the genus "Monomorium" to the revised genus "Trichomyrmex".
+Trichomyrmex destructor is a species of ant in the subfamily Myrmicinae. Its common names include destructive trailing ant or Singapore ant. It is a pest species in urban areas, known for causing costly damage to structures, vehicles, and electronic devices with its chewing activity. In , the species was moved from the genus "Monomorium" to the revised genus "Trichomyrmex".
 
 This is a "tramp ant", an invasive ant species that easily becomes established and dominant in new habitat due to traits such as aggression toward other ant species, little aggression toward members of its own species, efficient recruitment, and large colony size. As a tramp ant, it has spread throughout the world via human transport systems, particularly shipping. It is introduced with freight in a variety of transport modes.
 
 Today it can be found in tropical regions worldwide, and it can live in urban environments in temperate climates. It is present in or has been reported from many countries and islands in Asia, Africa, Australasia and other Pacific Islands, the West Indies, North, Central, and South America, and Europe. It is most widely distributed in the Old World, and it is very common in the Pacific Islands. Its native range is unknown. It has been hypothesized that it originated in India and perhaps other Asian countries, or Africa. Considering its close resemblance to African "Monomorium" species and its apparently continuous distribution from North Africa to Southeast Asia, its native range may include southern Asia and the Middle East, and it may have originated in North Africa.
 
-The worker is variable in size, from in length, and color, from light yellow to darker brownish yellow, but usually with a "chocolate" abdomen. It has a square head and 12-segmented antennae with club-like tips. Each mandible has three large teeth and a much smaller fourth tooth. The body is mostly smooth and shiny with erect setae.
+The worker is variable in size, from in length, and color, from light yellow to darker brownish yellow, but usually with a "chocolate" abdomen. It has a square head and -segmented antennae with club-like tips. Each mandible has three large teeth and a much smaller fourth tooth. The body is mostly smooth and shiny with erect setae.
 
 The queen ant is between long and tawny in color with a brown abdomen. The head is more rectangular. The setae on the front part of the body are more curved and those on the abdomen are more flat than erect.
 
@@ -21,11 +21,10 @@ insect eggs, nectar, seeds, and almost any food item available in households. In
 
 In some regions this is a major pest species. Foraging workers chew through non-nutritive materials, such as fabric, rubber, and plastic. They have been observed chewing up tires and polystyrene cups. They can damage cables and electrical insulation, causing malfunctions in electrical equipment and telecommunications systems. The ant has been known to short out the ignition systems in cars and has been responsible for car and house fires.
 
-The ant sometimes attacks living animals and people, inflicting painful bites. People have complained of being attacked by swarms while sleeping in bed, and the ant may bite sleeping babies and children. A researcher describing a laboratory infestation in 1922 reported that the ants killed a number of caged lab rats and attacked the resident scientists, "biting out small pieces of skin" and delivering enough bites to one man to knock him unconscious for a short time. Residents of Cape Verde call it the "ninja ant" because of the species' silent aggression toward humans.
+The ant sometimes attacks living animals and people, inflicting painful bites. People have complained of being attacked by swarms while sleeping in bed, and the ant may bite sleeping babies and children. A researcher describing a laboratory infestation in  reported that the ants killed a number of caged lab rats and attacked the resident scientists, "biting out small pieces of skin" and delivering enough bites to one man to knock him unconscious for a short time. Residents of Cape Verde call it the "ninja ant" because of the species' silent aggression toward humans.
 
-Early introductions of the ant came by sea. It was infesting ships and harassing steamer passengers by 1922. Today it is sometimes also transported by airplane. Shipments of many kinds of freight can contain nests, including containers, produce, lumber, live plants, and electrical equipment. In 2005, a man unknowingly brought the ant home to New Zealand from Fiji, where he had purchased an iPod. The packaging was thought to contain an active nest.
+Early introductions of the ant came by sea. It was infesting ships and harassing steamer passengers by . Today it is sometimes also transported by airplane. Shipments of many kinds of freight can contain nests, including containers, produce, lumber, live plants, and electrical equipment. In , a man unknowingly brought the ant home to New Zealand from Fiji, where he had purchased an iPod. The packaging was thought to contain an active nest.
 
 While it is considered to be invasive, it rarely has negative effects on native fauna or habitat. It most often invades urban areas and it is not generally a dominant or competitive species in ant communities.
 
 
-</doc>

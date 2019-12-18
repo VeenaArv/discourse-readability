@@ -1,12 +1,11 @@
-</doc>
-<doc id="164244" url="https://simple.wikipedia.org/wiki?curid=164244" title="Ozone layer">
+
+
 Ozone layer
 
-The ozone layer is a layer of ozone high up in the Earth's atmosphere stratosphere, between approximately 10 kilometres and 50 kilometres above Earth’s surface. The exact amount of ozone varies, depending on the seasons and the location.
+The ozone layer is a layer of ozone high up in the Earth's atmosphere stratosphere, between approximately  kilometres and  kilometres above Earth’s surface. The exact amount of ozone varies, depending on the seasons and the location.
 
 Over the last hundred years, the ozone layer has been damaged by man-made chemicals, especially CFCs (chlorofluorocarbons), which were used mainly in aerosol sprays and refrigerants. CFCs are broken down in the upper atmosphere when they react with the ozone, causing ozone depletion. International leaders recognized this and united in banning the use of CFCs. As a result, the hole in the ozone layer has been shrinking and the ozone layer has been recovering. 
 
-The ozone layer was discovered in 1913 by French physicists Charles Fabry and Henri Buisson. Its properties were explored in detail by the British meteorologist G. M. B. Dobson, who developed a simple spectrophotometer, the Dobsonmeter. This tool could be used to measure the ozone levels found in the stratosphere from the ground. Between 1928 and 1958 Dobson established a worldwide network of ozone monitoring stations. Most of these stations are still in use today. The "Dobson unit", a convenient measure of the total amount of ozone in a column overhead, is named in his honor.
+The ozone layer was discovered in  by French physicists Charles Fabry and Henri Buisson. Its properties were explored in detail by the British meteorologist G. M. B. Dobson, who developed a simple spectrophotometer, the Dobsonmeter. This tool could be used to measure the ozone levels found in the stratosphere from the ground. Between  and  Dobson established a worldwide network of ozone monitoring stations. Most of these stations are still in use today. The "Dobson unit", a convenient measure of the total amount of ozone in a column overhead, is named in his honor.
 
 
-</doc>
