@@ -1,24 +1,45 @@
-</doc>
-<doc id="41111597" url="https://en.wikipedia.org/wiki?curid=41111597" title="CASIC JK">
-CASIC JK
-
-CASIC JK UAV is a series of Chinese unmanned blimps developed by China Aerospace Science and Industry Corporation (CASIC) Hunan division, and a total of five different types of unmanned blimps in the JK series have been publicized as end of 2013.
-
-JK-12 is an unmanned blimp developed by CASIC Hunan division, which is also known as Base 068 of CASIC.
-Specification:
-
-JK-20 is an unmanned blimp developed by CASIC Hunan division, which is also known as Base 068 of CASIC.
-Specification:
-
-JKZ-20A is an unmanned blimp developed by CASIC Hunan division, which is also known as Base 068 of CASIC.
-Specification:
-
-JKZ-40 is an unmanned blimp developed by CASIC Hunan division, which is also known as Base 068 of CASIC. It is similar in size to JZ-40 from which it is developed/derived from. JKZ-40 is specifically designed to act as an airborne communication relay station and post disaster survey platform in area after large natural disasters have structed.
-
-JZ-40 is an unmanned blimp developed by CASIC Hunan division, which is also known as Base 068 of CASIC.
-Specification:
-
-List of unmanned aerial vehicles of the People's Republic of China
 
 
-</doc>
+The Origins of the Second World War
+
+The Origins of the Second World War is a non-fiction book by the English historian A. J. P. Taylor, examining the causes of World War II. It was first published in  by Hamish Hamilton.
+
+Taylor had previously written "The Struggle for Mastery in Europe", which covered the period  until . As he later wrote in his autobiography:
+
+I wanted to be writing something and decided that I could carry on my diplomatic history from the point where the "Struggle for Mastery" left off. I had, I thought, done most of the research work needed by reviewing the various books of memoirs and the volumes of German and British diplomatic documents as they came out. At that time no original sources were available: no cabinet minutes or papers, no Chiefs of Staff records, only more or less formal documents from the Foreign Office with very occasional minutes. This extraordinary paucity, as it seems now, makes my book a period piece of limited value.
+
+Since  he had read fifteen volumes of British diplomatic documents, eight volumes of German diplomatic documents and one volume of Italian diplomatic documents, all of them covering the s. However he did not read Adolf Hitler's "Mein Kampf" until after he had written the book.
+
+Taylor was a supporter of the Campaign for Nuclear Disarmament, one of whose arguments was that an unintended war brought about by accident could cause a nuclear war and the end of human civilisation. In Taylor's view if the Second World War could start by accident, so could a Third. He also was opposed to the idea that it was necessary for the Western powers to take a tough stand against the Soviet Union as failure to take a similar stand against Nazi Germany had led to war.
+
+Since the war the general view of the causes of the Second World War (the "Nuremberg Thesis") was that Hitler had wanted war, planned in detail for war and had launched the war. He was supported by other Nazis but not by the German people, who were innocent bystanders or victims of the Nazi regime. Taylor broke with this consensus and the five main themes of his book are: firstly, that foreign policy is determined by reasons of state and the necessity of reacting to foreign threats, rather than driven by internal politics such as economic or ideological factors; secondly, that Hitler possessed strategic goals but no thought-out grand scheme as to how and when these goals would be achieved; thirdly, that Hitler's goals were the same as those of other German politicians such as Gustav Stresemann; fourthly, that Hitler was an opportunist, taking advantage of events provided by the French and British governments, rather than working according to a timetable; and, fifthly, that in destroying the Treaty of Versailles and invading Poland, Hitler had the support of the German people.
+
+The book was published in April , with German and American editions appearing the next year. Translations also appeared in French, Italian, Finnish, Dutch, Portuguese, Spanish, Norwegian, Danish, Swedish and Sinhalese. It was a bestseller around the world and provoked a storm of controversy.
+
+Sebastian Haffner wrote in his review in "The Observer": "This is an almost faultless masterpiece, perfectly proportioned, perfectly controlled. Bitterness has mellowed into quiet sadness and even pity...fairness rules supreme and of all passions only the passion for clarity remains...In spite of all this, it will probably become his most controversial book...Taylor is in the very first rank. He is among English historians to-day what Evelyn Waugh is among English novelists, a rescuer of forgotten truths, a knight of paradox, a prince of story-telling, and a great, perhaps the greatest, master of his craft". In the review from the "New Statesman", David Marquand praised Taylor as "the only English historian now writing who can bend the bow of Gibbon and Macaulay". Among his critics were Isaac Deutscher and A. L. Rowse. Martin Gilbert came across a copy of the book in a second hand bookshop some years after it was published. The copy was full of pencilled marginal notes attacking the book's thesis. When Gilbert looked at the flyleaf, it was inscribed "A. L. Rowse". He presented the copy to Taylor, who was much amused.
+
+Hugh Trevor-Roper reviewed the book in the July  issue of "Encounter". Trevor-Roper argued against Taylor's thesis, claiming that Hitler in "Mein Kampf" in  and elsewhere had outlined his programme. He also accused Taylor of perverting the evidence:
+
+I have said enough to show why I think Mr. Taylor's book utterly erroneous. In spite of his statements about 'historical discipline,' he selects, suppresses, and arranges evidence on no principle other than the needs of his thesis; and that thesis, that Hitler was a traditional statesman, of limited aims, merely responding to a given situation, rests on no evidence at all, ignores essential evidence, and is, in my opinion, demonstrably false. This casuistical defence of Hitler's foreign policy will not only do harm by supporting neo-Nazi mythology: it will also do harm, perhaps irreparable harm, to Mr. Taylor's reputation as a serious historian.
+
+On  July Taylor and Trevor-Roper appeared in a televised debate, chaired by Robert Kee, in which the two historians quarrelled. In the September  issue of "Encounter", Taylor responded to Trevor-Roper's review. Taylor's article was set out in two columns, one showing the quotations from Taylor's book that Trevor-Roper had included in his review, the other column providing the entire sentence from the book from which Trevor-Roper had acquired his quotations. Taylor intended to demonstrate that Trevor-Roper had selected, suppressed and arranged his evidence in exactly the way he had accused Taylor of doing. The last quotation of Trevor-Roper was his claim that the book would harm Taylor's reputation. Taylor responded: "The Regius Professor's methods of quotation might also do harm to his reputation as a serious historian, if he had one".
+
+The review by the Marxist historian Timothy Mason appeared in the December  issue of "Past & Present". Mason pointed to Nazi Germany's "demonic urge" and criticised Taylor for dismissing German economic patterns, such as the importance of rearmament and the objective of achieving autarky. In Mason's view, all these things required Hitler to launch a war: "A war for the plunder of manpower and materials lay square in the dreadful logic of German economic development under National Socialist rule". Taylor had ignored the interdependence of internal and external factors in the aims of German foreign policy.
+
+Taylor responded in the April  issue of "Past and Present": "The evidence for economic or political crises within Germany between  and  is very slight, if non-existent. Hitler cut German armaments plans by  per cent after Munich. He cut them again drastically after the fall of France and was reducing them even after the invasion of Russia. Indeed large-scale rearmament began only in the summer of ". Taylor also argued that Mason was wrong in attributing National Socialism to Hitler alone, ignoring the responsibility of the German people, and that National Socialism was the cause of European instability, with Taylor viewing the instability as already present before . Taylor replied to Mason's accusation that Taylor ignored deeper forces at work in the background: "I fear I may not have emphasised the profound forces. Of course there was a general climate of feeling in the Europe of the nineteen-thirties which made war likely...Of course historians must explore the profound forces. But I am sometimes tempted to think that they talk so much about these profound forces in order to avoid doing the detailed work. I prefer detail to generalisations: a grave fault no doubt, but at least it helps to redress the balance".
+
+The press of West Germany had unanimously criticised Taylor's thesis. The historian Elizabeth Wiskemann wrote a letter to the "Times Literary Supplement", quoting the many favourable reviews of Taylor's book in neo-Nazi publications. The German historian Golo Mann savaged the book in his review, claiming that Taylor attempted to prove Hitler's innocence and that Taylor was not concerned with historical truth but only in demonstrating the sophistication of his own mind. The German conservative historian Gerhard Ritter was also critical. When Taylor flew to Munich for a televised debate with a Swiss historian, the taxi driver who drove him from the airport asked him whether he knew an Englishman called A. J. P. Taylor. Taylor replied that he was A. J. P. Taylor. The driver stopped mid-traffic, told Taylor he had been part of Hitler's SS bodyguard and put out his hand to congratulate Taylor on proving that Hitler had not caused the war.
+
+The book was published in the United States by Athenaeum Press. At the publisher's suggestion, Taylor wrote a preface to the American edition explaining America's role in the s. The reaction to Taylor's thesis was even more extreme than in Britain. The review in "Time" thundered against Taylor:
+
+Taylor finds excuses for Hitler and reasons to blame nearly everybody else...In Taylor's view it as always somebody else who put poor, passive Hitler in a mood to fight...With scholarly detachment, Taylor states the case for appeasing Hitler and for resisting him, but his sympathies obviously lie with the appeasers...Taylor insists that Hitler was no fanatic. 'Hitler was a rational, though no doubt a wicked statesmen,' writes Taylor primly...his nationalism, far from being the common variety, was the most virulent racism the world has ever known...'A Study of history is of no practical use in the present or future,' Taylor, who likes to be whimsical, once said. As far as Taylor himself is concerned, his book proves his point.
+
+Gordon A. Craig in the "New York Herald Tribune" condemned the book, calling it a "perverse and potentially dangerous book. Mr. Taylor has always shown a tendency to strain the truth in order to achieve striking formulations. But he has never before been so intent upon demonstrating his originality as he is here, or so willing to indulge in exaggeration, oversimplification, quibbling, and sheer willfulness in order to achieve his effects". Craig ended by saying Taylor "also gives aid and comfort to those who would like to rehabilitate the Fuehrer's reputation".
+
+Two notable exceptions were American revisionist historians Harry Elmer Barnes and Murray Rothbard, who both praised Taylor's thesis in the hopes that it would allow future scholars to correct the historical record of the outbreak of hostilities, in a similar manner that occurred after the First World War.
+
+In  a second edition appeared with new preface by Taylor entitled 'Second Thoughts'.
+
+
+
+

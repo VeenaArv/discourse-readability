@@ -1,5 +1,5 @@
-</doc>
-<doc id="164483" url="https://simple.wikipedia.org/wiki?curid=164483" title="Severus Snape">
+
+
 Severus Snape
 
 Severus Snape is a character from J.K. Rowling's fictional book series Harry Potter. 
@@ -12,4 +12,3 @@ The last thing Snape's eyes ever saw were Lily's green eyes. Later, Harry Potter
 In all of the Harry Potter movies, Snape is played by Alan Rickman.
 
 
-</doc>

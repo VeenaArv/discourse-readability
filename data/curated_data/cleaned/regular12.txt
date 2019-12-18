@@ -1,5 +1,5 @@
-</doc>
-<doc id="41067589" url="https://en.wikipedia.org/wiki?curid=41067589" title="Intergenerational and Lifetime Transference of Attachment">
+
+
 Intergenerational and Lifetime Transference of Attachment
 
 There are multiple consequences of different attachment patterns that are formed in childhood development. This article will explore the way attachment patterns are formed, how parents pass on their attachment styles, long-term consequences of attachment patterns, and cross cultural attachment patterns.
@@ -10,7 +10,7 @@ Higher levels of sensitivity in maternal behavior, as defined by the speed at wh
 
 One’s attachment style shows its impacts on different aspects of their life including the attachment style of their children. Intergenerational attachment theory suggests that a mother’s representations of earlier attachment may influence the development of her infant’s attachment to her. Hypothetically, it is expected that a parent who had a secure attachment will most probably end up having a child with secure attachment. Bowlby was especially interested in intergenerational attachment styles. In the separation he states that individuals that have supportive parents grow up to be stable and self-reliant.
 
-However, research has also shown that the perception of the parent’s earlier attachment style is more important than the attachment itself. The ways in which a mother considers her own historical relationship with her primary caregiver is central to the development of her own child’s attachment (Ainsworth & Bowlby, 1991; Main, 1990). Research conducted on this subject by Peter Fonagy, Howard Steele and Miriam Steele included a method where parents answered questions about their attachment histories in their early childhood by answering the Adult Attachment Interview. They also stated how those attachment styles influenced their relationship with their own children. Results have shown that autonomous-secure parents gave coherent account of early attachments whereas preoccupied parents emphasized mostly childhood memories that were about conflicts and dismissing parents were generally unable to identify their memories related to their early childhood attachment.
+However, research has also shown that the perception of the parent’s earlier attachment style is more important than the attachment itself. The ways in which a mother considers her own historical relationship with her primary caregiver is central to the development of her own child’s attachment (Ainsworth & Bowlby, ; Main, ). Research conducted on this subject by Peter Fonagy, Howard Steele and Miriam Steele included a method where parents answered questions about their attachment histories in their early childhood by answering the Adult Attachment Interview. They also stated how those attachment styles influenced their relationship with their own children. Results have shown that autonomous-secure parents gave coherent account of early attachments whereas preoccupied parents emphasized mostly childhood memories that were about conflicts and dismissing parents were generally unable to identify their memories related to their early childhood attachment.
 
 As children grow up, their attachment to their parents continues to evolve and play different roles in their everyday lives. One example of a persistent attachment that changes over the course of an individual’s life is the parental bond.
 
@@ -28,4 +28,3 @@ Since the cross-cultural variance in the transmission of attachment occurs at a 
 
 
 
-</doc>

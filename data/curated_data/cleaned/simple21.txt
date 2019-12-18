@@ -1,5 +1,5 @@
-</doc>
-<doc id="164414" url="https://simple.wikipedia.org/wiki?curid=164414" title="Mudskipper">
+
+
 Mudskipper
 
 Mudskippers are a type of fish. They are part of a fish family known as the gobies. They are amphibious fish: they can use their pectoral fins to "walk" on land. They are adapted to intertidal habitats. These are places where the tide of the ocean comes in and out. Most fish that live in these habitats hide under wet seaweed or in tidal pools to stay moist or wet when the tide goes out. Mudskippers are active when they are out of the water. They eat and interact with each other. They defend their territories.
@@ -15,8 +15,7 @@ This way of breathing is like how amphibians breathe. It is known as cutaneous a
 Even when their burrow is underwater, mudskippers have an air pocket inside it. This lets them to breathe where there is little oxygen in the water.
 
 The genus (a group of closely related species) "Periophthalmus" is by far the most diverse and widespread group of mudskipper. There are eighteen different types. "Periophthalmus argentilineatus" is one of the most widespread and well known species. It can be found in mangrove ecosystems and mudflats of East Africa and Madagascar east through the Sundarbans of Bengal, South East Asia to northern Australia, southeast China and southern Japan, up to Samoa and Tonga Islands.
-It grows to a length of about 9.5 cm and is a carnivorous opportunist feeder, which means it will eat anything it comes upon. It feeds on small prey such as small crabs and other arthropods. Another species, "Periophthalmus barbarus", is the only goby that lives in the coastal areas of western Africa.
+It grows to a length of about . cm and is a carnivorous opportunist feeder, which means it will eat anything it comes upon. It feeds on small prey such as small crabs and other arthropods. Another species, "Periophthalmus barbarus", is the only goby that lives in the coastal areas of western Africa.
 
 
 
-</doc>

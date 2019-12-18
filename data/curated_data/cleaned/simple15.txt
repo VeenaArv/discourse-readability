@@ -1,5 +1,5 @@
-</doc>
-<doc id="164122" url="https://simple.wikipedia.org/wiki?curid=164122" title="List of tallest buildings in New York City">
+
+
 List of tallest buildings in New York City
 
 This is a list of the tallest buildings in New York City.
@@ -10,4 +10,3 @@ This lists the tallest building in each borough of New York City based on standa
 
 
 
-</doc>

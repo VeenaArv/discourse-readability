@@ -28,8 +28,9 @@ def normalize_text(is_simple=False):
         # print('doc_list', doc_list)
         for doc in doc_list:
             # print(doc)
-            re.sub(r'<doc id[\S\s]*>', '', doc)
-            re.sub(r'(\[\d*])|(\d*)', "", doc)
+            doc = re.sub(r'</doc>',"", doc)
+            doc = re.sub(r'<doc id[\S\s]*>', "", doc)
+            doc = re.sub(r'(\[\d*])|(\d*)', "", doc)
             file_name = 'simple' + str(doc_count) + '.txt' if is_simple else 'regular' + str(doc_count) + '.txt'
             output_file_path = os.path.join(OUTPUT_DIR, file_name)
             if len(doc.split()) > 100:
