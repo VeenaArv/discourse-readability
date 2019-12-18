@@ -31,14 +31,14 @@ def write_feature_file(is_simple=False):
     for doc_count in range(50):
         cleaned_file_name = 'simple' + str(doc_count) + '.txt' if is_simple else 'regular' + str(doc_count) + '.txt'
         print(cleaned_file_name)
-        print(get_pdtb_filepath(cleaned_file_name))
-        # n_relations = get_n_discourse_relations_from_pdtb_annotations(get_pdtb_filepath(cleaned_file_name))
-        # output_path = FEATURE_DIR + cleaned_file_name
-        # with open(output_path, 'w+') as f:
-        #     norm_n_explicit = n_relations[0] / int(wc_list[doc_count])
-        #     norm_n_implicit = n_relations[1] / int(wc_list[doc_count])
-        #     f.write('n_explicit=' + str(norm_n_explicit) + '\n')
-        #     f.write('n_implicit=' + str(norm_n_implicit) + '\n')
+        # print(get_pdtb_filepath(cleaned_file_name))
+        n_relations = get_n_discourse_relations_from_pdtb_annotations(get_pdtb_filepath(cleaned_file_name))
+        output_path = FEATURE_DIR + cleaned_file_name
+        with open(output_path, 'w+') as f:
+            norm_n_explicit = n_relations[0] / int(wc_list[doc_count])
+            norm_n_implicit = n_relations[1] / int(wc_list[doc_count])
+            f.write('n_explicit=' + str(norm_n_explicit) + '\n')
+            f.write('n_implicit=' + str(norm_n_implicit) + '\n')
 
 
 def main():
