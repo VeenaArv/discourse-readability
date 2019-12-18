@@ -15,6 +15,30 @@ def read_file(file_name, is_simple=False):
         return f.read()
 
 
+def write_counts_to_file(is_simple=False):
+    file_name = 'simple_wc.txt' if is_simple else 'regular_wc.txt'
+    output_file_path = os.path.join(OUTPUT_DIR, file_name)
+    wiki_file_count = 0
+    doc_count = 0
+    with open(output_file_path, 'w+') as f:
+        while doc_count < 50:
+            wiki_file_name = 'wiki_0' + str(doc_count) if doc_count < 10 else 'wiki_' + str(doc_count)
+            wiki_file_count += 1
+            text = read_file(wiki_file_name, is_simple)
+            doc_list = re.findall(r'</doc>[\S\s]*?</doc>', text)
+            for doc in doc_list:
+                doc = re.sub(r'</doc>', "", doc)
+                doc = re.sub(r'<doc id[\S\s]*>', "", doc)
+                doc = re.sub(r'(\[\d*])|(\d*)', "", doc)
+                word_count = len(doc.split())
+                if len(doc.split()) > 100:
+                    f.write(str(word_count))
+                    f.write('\n')
+                    doc_count += 1
+                if doc_count >= 50:
+                    break
+
+
 # TODO(veenaarv) read text_stats doc to see if we need further normalization
 def normalize_text(is_simple=False):
     wiki_file_count = 0
@@ -28,7 +52,7 @@ def normalize_text(is_simple=False):
         # print('doc_list', doc_list)
         for doc in doc_list:
             # print(doc)
-            doc = re.sub(r'</doc>',"", doc)
+            doc = re.sub(r'</doc>', "", doc)
             doc = re.sub(r'<doc id[\S\s]*>', "", doc)
             doc = re.sub(r'(\[\d*])|(\d*)', "", doc)
             file_name = 'simple' + str(doc_count) + '.txt' if is_simple else 'regular' + str(doc_count) + '.txt'
@@ -58,8 +82,10 @@ def main():
     # sim_norm = normalize_text(simple_text)
     # print_readability_metrics(reg_norm, 'komodo_dragon.txt')
     # print_readability_metrics(sim_norm, 'simple_komodo_dragon.txt')
-    normalize_text()
-    normalize_text(is_simple=True)
+    # normalize_text()
+    # normalize_text(is_simple=True)
+    write_counts_to_file()
+    write_counts_to_file(is_simple=True)
 
 
 if __name__ == '__main__':
